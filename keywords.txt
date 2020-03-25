@@ -1,0 +1,4 @@
+TinyBlink   KEYWORD1
+blink    KEYWORD2
+stop     KEYWORD2
+blinkAtInterval     KEYWORD2
