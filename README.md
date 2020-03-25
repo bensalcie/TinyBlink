@@ -2,7 +2,7 @@
 An Arduino library that lets you blink your Circuits with ease. 
 This is a lightweight library that helps you overcome the redundant codes to switch on/off LED'S in your arduino projects.
   <p float="center">
-  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/arduino.png" width="100%" height="250" />
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/arduino.png" width="100%"  />
   </p>
 
 # Installation Guidelines.
@@ -46,4 +46,4 @@ Here is a basic usage to qwickly turn LED in a flashy way at 50 Miliseconds betw
 
     }
 
-[Examples Here](https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Agrisasa.apk),
+[Examples Here](https://github.com/bensalcie/TinyBlink/tree/master/examples)
